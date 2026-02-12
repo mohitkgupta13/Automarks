@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#d1d5db" />
+  <!-- Head -->
+  <circle cx="256" cy="190" r="92" fill="#ffffff" />
+  <!-- Shoulders / torso -->
+  <path
+    d="M 96 456 C 112 370 176 312 256 312 C 336 312 400 370 416 456 Z"
+    fill="#ffffff"
+  />
+</svg>

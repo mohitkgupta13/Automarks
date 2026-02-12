@@ -1,0 +1,5 @@
+{
+  "name": "VTU Insight: Results Management Portal",
+  "description": "A high-performance VTU results dashboard for processing PDF result sheets, analyzing student performance, and generating batch analytics with real-time tracking.",
+  "requestFramePermissions": []
+}
